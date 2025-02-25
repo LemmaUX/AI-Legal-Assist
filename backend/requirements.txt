@@ -1,0 +1,6 @@
+fastapi==0.95.2
+uvicorn==0.23.2
+psycopg2-binary==2.9.10
+pinecone==6.0.1
+sentence-transformers==2.2.2
+requests==2.32.3
